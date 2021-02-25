@@ -5,13 +5,14 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.RadioGroup;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private TextView texte_accueil_1;
-    private TextView texte_accueil_2;
-    private Button bouton_commencer;
+    private TextView titleText, welcomeText;
+    private Button startButton;
+    private RadioGroup modeChoice;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,11 +20,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        texte_accueil_1 = (TextView)findViewById(R.id.texte_accueil_1);
-        texte_accueil_2 = (TextView) findViewById(R.id.texte_accueil_2);
-        bouton_commencer = (Button)findViewById(R.id.bouton_commencer);
+        titleText = (TextView)findViewById(R.id.activity_main_title_text);
+        welcomeText = (TextView) findViewById(R.id.activity_main_welcome_text);
+        startButton = (Button)findViewById(R.id.activity_main_start_button);
 
-        bouton_commencer.setOnClickListener(new View.OnClickListener() {
+        modeChoice = (RadioGroup) findViewById(R.id.activity_main_radio);
+
+        startButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 

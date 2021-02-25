@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/texte_accueil_1"
+        android:id="@+id/activity_main_title_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -19,7 +19,7 @@
     </TextView>
 
     <TextView
-        android:id="@+id/texte_accueil_2"
+        android:id="@+id/activity_main_welcome_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
@@ -28,8 +28,36 @@
         android:text="Reminders to make it simple">
     </TextView>
 
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activity_main_radio"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:showDividers="beginning|middle|end"
+        android:layout_marginTop="10dp"
+        android:id="@+id/radioGroup">
+
+
+        <RadioButton
+            android:id="@+id/activity_main_student_radio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mode étudiant"
+            android:checked="false">
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/activity_main_company_radio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mode entreprise"
+            android:checked="false">
+        </RadioButton>
+    </RadioGroup>
+
     <Button
-        android:id="@+id/bouton_commencer"
+        android:id="@+id/activity_main_start_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
