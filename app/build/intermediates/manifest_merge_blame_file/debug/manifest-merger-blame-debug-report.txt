@@ -11,7 +11,7 @@
 9-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:5:5-22:19
+11-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:5:5-23:19
 12        android:allowBackup="true"
 12-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -26,31 +26,35 @@
 18-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:9:9-54
 19        android:supportsRtl="true"
 19-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:10:9-35
-20        android:theme="@style/Theme.ToDoApp" >
-20-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:11:9-45
-21        <activity android:name="com.example.to_doapp.PostIt" />
-21-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:12:9-53
-21-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:12:19-41
-22        <activity android:name="com.example.to_doapp.CreateActivity" />
-22-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:13:9-52
-22-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:13:19-49
-23        <activity android:name="com.example.to_doapp.ShowLists" />
-23-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:14:9-47
-23-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:14:19-44
-24        <activity android:name="com.example.to_doapp.MainActivity" >
-24-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:15:9-21:20
-24-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:15:19-47
-25            <intent-filter>
-25-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:16:13-20:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:17:17-69
-26-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:17:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:19:17-77
-28-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:19:27-74
-29            </intent-filter>
-30        </activity>
-31    </application>
-32
-33</manifest>
+20        android:testOnly="true"
+21        android:theme="@style/Theme.ToDoApp" >
+21-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:11:9-45
+22        <activity android:name="com.example.to_doapp.ListsActivity" />
+22-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:12:9-50
+22-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:12:19-48
+23        <activity android:name="com.example.to_doapp.PostIt" />
+23-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:13:9-44
+23-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:13:19-41
+24        <activity android:name="com.example.to_doapp.CreateActivity" />
+24-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:14:9-52
+24-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:14:19-49
+25        <activity android:name="com.example.to_doapp.ShowLists" />
+25-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:15:9-47
+25-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:15:19-44
+26        <activity android:name="com.example.to_doapp.MainActivity" >
+26-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:16:9-22:20
+26-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:16:19-47
+27            <intent-filter>
+27-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:17:13-21:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:18:17-69
+28-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:18:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:20:17-77
+30-->/home/nathalie/Téléchargements/Projet_Android_M1-Projet_Android/app/src/main/AndroidManifest.xml:20:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>

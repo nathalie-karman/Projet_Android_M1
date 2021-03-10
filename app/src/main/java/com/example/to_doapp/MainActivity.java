@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 // Temporary
                 //  Intent createActivity = new Intent(MainActivity.this, CreateActivity.class);
                 //  startActivity(createActivity);
-                Intent createActivity = new Intent(MainActivity.this, ShowLists.class);
+                Intent createActivity = new Intent(MainActivity.this, ListsActivity.class);
                 startActivity(createActivity);
             }
         });

@@ -1643,6 +1643,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_baseline_add_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -1761,6 +1762,7 @@ id activity_main_start_button
 id activity_main_title_text
 id activity_main_welcome_text
 id add
+id addButtonView
 id alertTitle
 id aligned
 id all
@@ -1780,8 +1782,8 @@ id beginning
 id blocking
 id bottom
 id bounce
-id btnAddList
 id btnConfirmList
+id btn_add_list
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1847,7 +1849,6 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
-id editTextTextPersonName2
 id edit_query
 id elastic
 id end
@@ -1888,6 +1889,8 @@ id ignore
 id ignoreRequest
 id image
 id info
+id inputData
+id input_data
 id invisible
 id inward
 id italic
@@ -1907,6 +1910,7 @@ id line3
 id linear
 id listMode
 id list_item
+id listsV2
 id masked
 id material_clock_display
 id material_clock_face
@@ -2104,7 +2108,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id viewLists
+id view_lists
 id view_offset_helper
 id visible
 id withText
@@ -2173,6 +2177,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_create
+layout activity_lists
 layout activity_main
 layout activity_post_it
 layout activity_show_lists

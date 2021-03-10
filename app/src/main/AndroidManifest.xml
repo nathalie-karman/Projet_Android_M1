@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ToDoApp">
-        <activity android:name=".PostIt"></activity>
+        <activity android:name=".ListsActivity"/>
+        <activity android:name=".PostIt" />
         <activity android:name=".CreateActivity" />
         <activity android:name=".ShowLists" />
         <activity android:name=".MainActivity">

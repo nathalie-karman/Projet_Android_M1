@@ -3,6 +3,7 @@ package com.example.to_doapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -20,20 +21,25 @@ public class ShowLists extends AppCompatActivity {
     private ArrayAdapter<String> itemsAdapter;
     private ListView listView;
     private Button btn;
+    private EditText input;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show_lists);
 
-        listView = findViewById(R.id.viewLists);
-        btn = findViewById(R.id.btnAddList);
+        listView = findViewById(R.id.view_lists);
+        btn = findViewById(R.id.btn_add_list);
+        input =  findViewById(R.id.input_data);
 
         btn.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
+
                 addItem(v);
             }
+
+
         });
 
         postIts = new ArrayList<>();
@@ -43,6 +49,7 @@ public class ShowLists extends AppCompatActivity {
     }
 
     private void setUpListViewListener() {
+
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
@@ -56,7 +63,7 @@ public class ShowLists extends AppCompatActivity {
     }
 
     private void addItem(View view){
-        EditText input =  findViewById(R.id.editTextTextPersonName2);
+
         String itemText = input.getText().toString();
 
         if(!(itemText.equals(""))){

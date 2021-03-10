@@ -16,7 +16,7 @@ public class PostIt extends AppCompatActivity {
         setContentView(R.layout.activity_post_it);
         myDrag = findViewById(R.id.dragView);
 
-        myDrag.setOnLongClickListener();//{
+        // myDrag.setOnLongClickListener();//{
            // val clipText = "c est la valeur cliptext";
             // val item = ClipData.Item(clipText);
                 // val mimeTypes = arrayOf(ClipDescription.MIMETYPE_TEXT_PLAIN)
@@ -24,4 +24,5 @@ public class PostIt extends AppCompatActivity {
                 //   val dragShadowBuilder = View.DragShadowBuilder(it);
                 // })
         //  }
+}
 }
