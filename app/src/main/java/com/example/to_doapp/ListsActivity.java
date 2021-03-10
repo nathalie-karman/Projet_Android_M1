@@ -35,7 +35,7 @@ public class ListsActivity extends AppCompatActivity implements View.OnClickList
         item_list = findViewById(R.id.listsV2);
 
         adding_items.setOnClickListener(this);
-        item_list.setOnItemLongClickListener(this); // Giving the reference of the onclick function
+        item_list.setOnItemLongClickListener(this);
     }
 
     @Override
@@ -43,7 +43,7 @@ public class ListsActivity extends AppCompatActivity implements View.OnClickList
         String get_input = input.getText().toString();
 
         if(table_values.contains(get_input)){
-            Toast message = Toast.makeText(getBaseContext(),"Item Already Exist", Toast.LENGTH_SHORT);
+            Toast message = Toast.makeText(getBaseContext(),"Cette catégorie de liste existe déjà", Toast.LENGTH_SHORT);
             message.setGravity( Gravity.TOP | Gravity.CENTER_HORIZONTAL, 0,0 ); //mettre en haut de la page le message
             message.show();
         } // Enter the element if it does not exist
@@ -58,13 +58,13 @@ public class ListsActivity extends AppCompatActivity implements View.OnClickList
     @Override
     public boolean onItemLongClick(AdapterView<?> adapterView, View view, int position, long l) {
         final int removing_item = position;
-        AlertDialog.Builder builder = new AlertDialog.Builder( this); // Ask the user to get the confirmation before deleting an item from the listView
-        builder.setMessage("Do you want to delete").setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+        AlertDialog.Builder builder = new AlertDialog.Builder( this);
+        builder.setMessage("Êtes-vous sûr de vouloir supprimer cette catégorie ?").setPositiveButton("Ok", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
                 table_values.remove(removing_item);
                 adapter.notifyDataSetChanged();
-                Toast.makeText(getBaseContext(), "Item Deleted", Toast.LENGTH_LONG).show();
+                Toast.makeText(getBaseContext(), "Suppression effectuée", Toast.LENGTH_LONG).show();
             }
         }).setNegativeButton("Cancel", null).show();
 
