@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dragDropLay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PostIt"
+    android:orientation="vertical" >
+
+
+    <LinearLayout
+        android:id="@+id/layoutTop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_green_light"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+
+        <!-- créer une vue pour le drag&drop -->
+        <View
+            android:id="@id/dragView"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@android:color/holo_orange_dark"
+            android:layout_gravity="center"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutBottom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_purple"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:orientation="horizontal" />
+</LinearLayout>
