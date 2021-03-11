@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nathalie/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "/home/nathalie/AndroidStudioProjects/TodoApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
                     "source": "/home/nathalie/.gradle/caches/transforms-2/files-2.1/49dd2c14dcc57c7f4a0aa1d53483e871/support-compat-28.0.0/res/values-zh-rHK/values-zh-rHK.xml",

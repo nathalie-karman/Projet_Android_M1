@@ -73,8 +73,8 @@ public class MainActivity extends AppCompatActivity {
             case R.id.actionAddTask:
                 final EditText textLocal = new EditText( this );
                 AlertDialog dialog = new AlertDialog.Builder( this )
-                        .setTitle( "Ajouter tâche" )
-                        .setMessage( "Et après ?" )
+                        .setTitle( "Ajouter le nom du post it" )
+                        //.setMessage( "blablabla" )
                         .setView( textLocal )
                         .setPositiveButton( "Ajouter", new DialogInterface.OnClickListener() {
                             @Override
