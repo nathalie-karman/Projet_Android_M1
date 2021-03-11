@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         startButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Temporary
+
                 Intent createActivity = new Intent(MainActivity.this, CreateActivity.class);
                 startActivity(createActivity);
             }

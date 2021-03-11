@@ -48,4 +48,30 @@
         android:text="Date limite">
     </Button>
 
+    <Button
+        android:id="@+id/activity_create_alarm_time_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Rappel">
+    </Button>
+
+    <CheckBox
+        android:id="@+id/activity_create_alarm_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Me le rappeler">
+    </CheckBox>
+
+    <Button
+        android:id="@+id/activity_create_create_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Créer post-it">
+    </Button>
+
 </LinearLayout>

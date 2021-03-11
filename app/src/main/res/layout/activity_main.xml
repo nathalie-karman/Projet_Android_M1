@@ -44,7 +44,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Mode étudiant"
-            android:checked="false">
+            android:checked="true">
         </RadioButton>
 
         <RadioButton
@@ -57,6 +57,7 @@
     </RadioGroup>
 
     <Button
+        android:layout_below="@id/radioGroup"
         android:id="@+id/activity_main_start_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
