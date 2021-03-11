@@ -1,7 +1,7 @@
-com/main/todoapp/DbHelper.java
- com.main.todoapp.DbHelper
-com/main/todoapp/BuildConfig.java
- com.main.todoapp.BuildConfig
 com/main/todoapp/MainActivity.java
  com.main.todoapp.MainActivity
  com.main.todoapp.MainActivity$1
+com/main/todoapp/BuildConfig.java
+ com.main.todoapp.BuildConfig
+com/main/todoapp/DbHelper.java
+ com.main.todoapp.DbHelper
