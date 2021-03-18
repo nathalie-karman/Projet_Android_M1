@@ -1,0 +1,71 @@
+com/example/todoapp/AlertReceiver.java
+ com.example.todoapp.AlertReceiver
+com/example/todoapp/Utils/Constants.java
+ com.example.todoapp.Utils.Constants
+com/example/todoapp/DatabaseAlarm/DatabaseAlarm.java
+ com.example.todoapp.DatabaseAlarm.DatabaseAlarm
+com/example/todoapp/Model/ToDoModel.java
+ com.example.todoapp.Model.ToDoModel
+com/example/todoapp/Fragments/AddTaskFragment.java
+ com.example.todoapp.Fragments.AddTaskFragment
+ com.example.todoapp.Fragments.AddTaskFragment$1
+ com.example.todoapp.Fragments.AddTaskFragment$2
+com/example/todoapp/Utils/DatabaseHandler.java
+ com.example.todoapp.Utils.DatabaseHandler
+com/example/todoapp/MessageActivity.java
+ com.example.todoapp.MessageActivity
+com/example/todoapp/BootPhoneReceiver.java
+ com.example.todoapp.BootPhoneReceiver
+com/example/todoapp/Model/AlarmDao.java
+ com.example.todoapp.Model.AlarmDao
+com/example/todoapp/Dashboard.java
+ com.example.todoapp.Dashboard
+ com.example.todoapp.Dashboard$1
+ com.example.todoapp.Dashboard$2
+ com.example.todoapp.Dashboard$3
+ com.example.todoapp.Dashboard$4
+ com.example.todoapp.Dashboard$5
+ com.example.todoapp.Dashboard$6
+com/example/todoapp/View/RecyclerItemTouchHelper.java
+ com.example.todoapp.View.RecyclerItemTouchHelper
+ com.example.todoapp.View.RecyclerItemTouchHelper$1
+ com.example.todoapp.View.RecyclerItemTouchHelper$2
+com/example/todoapp/MainActivity2.java
+ com.example.todoapp.MainActivity2
+com/example/todoapp/BuildConfig.java
+ com.example.todoapp.BuildConfig
+com/example/todoapp/Adapters/ToDoAdapter.java
+ com.example.todoapp.Adapters.ToDoAdapter
+ com.example.todoapp.Adapters.ToDoAdapter$1
+ com.example.todoapp.Adapters.ToDoAdapter$ViewHolder
+com/example/todoapp/MainActivity.java
+ com.example.todoapp.MainActivity
+ com.example.todoapp.MainActivity$1
+ com.example.todoapp.MainActivity$2
+ com.example.todoapp.MainActivity$3
+com/example/todoapp/Adapters/AlarmAdapter.java
+ com.example.todoapp.Adapters.AlarmAdapter
+ com.example.todoapp.Adapters.AlarmAdapter$ViewHolder
+com/example/todoapp/Fragments/TimePickerFragment.java
+ com.example.todoapp.Fragments.TimePickerFragment
+ com.example.todoapp.Fragments.TimePickerFragment$1
+ com.example.todoapp.Fragments.TimePickerFragment$2
+com/example/todoapp/AlarmActivity.java
+ com.example.todoapp.AlarmActivity
+ com.example.todoapp.AlarmActivity$1
+ com.example.todoapp.AlarmActivity$2
+com/example/todoapp/Model/EventAlarm.java
+ com.example.todoapp.Model.EventAlarm
+com/example/todoapp/SplashActivity.java
+ com.example.todoapp.SplashActivity
+ com.example.todoapp.SplashActivity$1
+com/example/todoapp/Model/NotificationHelper.java
+ com.example.todoapp.Model.NotificationHelper
+com/example/todoapp/Model/DialogCloseListener.java
+ com.example.todoapp.Model.DialogCloseListener
+com/example/todoapp/MainActivity3.java
+ com.example.todoapp.MainActivity3
+com/example/todoapp/TutoSplashActivity.java
+ com.example.todoapp.TutoSplashActivity
+ com.example.todoapp.TutoSplashActivity$1
+ com.example.todoapp.TutoSplashActivity$2

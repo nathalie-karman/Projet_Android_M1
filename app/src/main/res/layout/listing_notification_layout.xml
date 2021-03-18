@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginTop="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/deadline_blue"
+    android:id="@+id/notificationLayout"
+    >
+
+    <TextView
+        android:textSize="17sp"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_event"
+        android:text="blabla"
+        />
+    <LinearLayout
+        android:paddingEnd="10dp"
+        android:gravity="right"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:layout_gravity="center|left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_alarm_24"
+            />
+
+        <TextView
+
+            android:textSize="14sp"
+            android:textColor="#ffffff"
+            android:padding="10dp"
+            android:textStyle="bold|italic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_time_date"
+            android:text="bloublou"/>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

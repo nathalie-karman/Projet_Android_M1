@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_iconn.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_iconn.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_background_menu.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xxxhdpi/background_menu.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_com.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_com.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_working.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/working.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_white_add_24.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_white_add_24.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bis.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_bis.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bibc.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bibc.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_background_menu.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xxhdpi/background_menu.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_background_menu_round.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/background_menu_round.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_ck.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_ck.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_background_menu_round.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xxhdpi/background_menu_round.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_not.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_not.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_not_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_not_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bis.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bis.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_hat_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_hat_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_task_listing_layout.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/task_listing_layout.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bibcy.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bibcy.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_cleaning.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_cleaning.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_activity_alarm.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/activity_alarm.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bibcc_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bibcc_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_done.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/done.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_background_menu_round.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xxxhdpi/background_menu_round.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_arrow.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/arrow.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_ck_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_ck_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_iconn_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_iconn_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_travell.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_travell.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_delete_black_24dp.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_label_black_24dp.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_label_black_24dp.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_sporte.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_sporte.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_clea.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_clea.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_job.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_job.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_background_menu.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-hdpi/background_menu.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_sporte_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_sporte_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_travell.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_travell.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_com.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_com.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_keyboard_voice_24.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_baseline_keyboard_voice_24.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bibcy_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bibcy_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/menu_nenu_nav.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/menu/nenu_nav.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_activity_main2.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_sport_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_sport_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_iconnn_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_iconnn_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_note.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_note.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bail.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_bail.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_sport.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_sport.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bib_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bib_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_sync_black_24dp.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_sh.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_sh.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_menu_camera.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_button_normal.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/button_normal.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_travell_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_travell_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_sporte.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_sporte.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_info_outline_black_24dp.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_info_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_listing_notification_layout.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/listing_notification_layout.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_brightness_3_24.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_baseline_brightness_3_24.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_add_task_layout.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/add_task_layout.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_job_foreground.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_job_foreground.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_icone_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_icone_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_school_black_24dp.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_school_black_24dp.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_com_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_com_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bail_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bail_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_sport.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_sport.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_icon_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_icon_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_edit_24.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_edu_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_edu_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_activity_notification.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/activity_notification.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_icon.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_icon.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_background_menu.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-mdpi/background_menu.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_travel_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_travel_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_tasks_1.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/tasks_1.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_sh_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_sh_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bl.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_bl.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_menu.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_job.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_job.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bib.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_bib.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_help_outline_black_24dp.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_help_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_alarm_24.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_alarm_24.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_cleaning.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_cleaning.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_hat.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_hat.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_icon.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_icon.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_iconn.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_iconn.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_edu.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_edu.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_border_blue.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/border_blue.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_background_menu_round.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-mdpi/background_menu_round.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_twotone_edit_24.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_twotone_edit_24.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_border_img_view.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/border_img_view.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_activity_tuto.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/activity_tuto.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bibcy.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_bibcy.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bail.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bail.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_settings_black_24dp.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_shop.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_shop.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_guide_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_guide_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_shop.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_shop.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bibc.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_bibc.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_guide.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_guide.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_background_menu_round.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-hdpi/background_menu_round.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_not.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_not.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_background_menu_round.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/background_menu_round.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_edu.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_edu.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bibc_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bibc_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_background_menu.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/background_menu.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_guide.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_guide.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bib.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bib.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_header.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_background_menu.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/background_menu.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bis_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bis_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_background_menu_foreground.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/background_menu_foreground.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_travel.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_travel.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_shop_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_shop_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_ck.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_ck.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_delete_forever_white_24dp.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_delete_forever_white_24dp.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_cleaning_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_cleaning_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bl_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bl_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bibcc.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_bibcc.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_iconnn.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_iconnn.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bibcc.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bibcc.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_nav_header.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bl.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_bl.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_message.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_iconnn.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_iconnn.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_access_alarm_24.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_baseline_access_alarm_24.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_clea_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_clea_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_delete_sweep_24.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_baseline_delete_sweep_24.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_dashboard_layout.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/dashboard_layout.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_options.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_options.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_icone.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_icone.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_hat.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_hat.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_clea.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_clea.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_border_green.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/border_green.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_work_24.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/drawable/ic_baseline_work_24.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_note_foreground.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_note_foreground.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_sh.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-anydpi-v26/ic_sh.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_note.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_note.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_travel.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_travel.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/layout_activity_main3.xml.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/layout/activity_main3.xml"
+    },
+    {
+        "merged": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_icone.png.flat",
+        "source": "/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/res/mipmap-xhdpi/ic_icone.png"
+    }
+]

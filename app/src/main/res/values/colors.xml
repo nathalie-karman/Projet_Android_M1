@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="lightblue">#db0274b2</color>
+    <color name="middleblue">#8aa5ce</color>    <!--theme appli-->
+    <color name="middlegrey">#A8A8A8</color>
+    <color name="yellow">#f6d126</color>
+
+    <color name="grey">#14d0d0d0</color>
+    <color name="ic_bail_background">#3DDC84</color>
+    <color name="green">#68e504</color>
+
+    <color name="deadline_red">#ef0606</color>
+    <color name="deadline_blue">#024265</color>
+    <color name="deadline_orange">#ea9d16</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen">#026499</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen">#448bb2</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen</item>
+        <item>@color/dot_light_screen</item>
+        <item>@color/dot_light_screen</item>
+        <item>@color/dot_light_screen</item>
+        <item>@color/dot_light_screen</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen</item>
+        <item>@color/dot_dark_screen</item>
+        <item>@color/dot_dark_screen</item>
+        <item>@color/dot_dark_screen</item>
+        <item>@color/dot_dark_screen</item>
+    </array>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#8aa5ce</color>
+    <color name="colorAccent">#000000</color>
+    <color name="dark">#110D0C</color>
+
+</resources>

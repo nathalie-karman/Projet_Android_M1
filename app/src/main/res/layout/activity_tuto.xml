@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginEnd="124dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="628dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:gravity="center"
+        android:text="Tutoriel ToDoApp"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-2dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="518dp"
+        android:fontFamily="sans-serif-thin"
+        android:text="Pour Ajouter une liste de tâches il suffit de choisir la catégorie puis appuyer sur le bouton d'ajoute en bas de page."
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="409dp"
+        android:fontFamily="sans-serif-thin"
+        android:text="Vous pouvez changer l'ordre des tâches à votre convenance (bas en haut) à l'aide d'un drag'n drop."
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="194dp"
+        android:fontFamily="sans-serif-thin"
+        android:text="Pour créer un rappel sur votre appareil, vous pouvez le faire à partir du menu déroulant à gauche et aussi sur l'icône à côté du bouton d'ajout."
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:fontFamily="sans-serif-thin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="324dp"
+        android:text="Faites glisser les tâches a droite pour éditer et a gauche pour en suprrimer une."
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_skip"
+        android:layout_width="252dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="-39dp"
+        android:layout_marginTop="591dp"
+        android:layout_marginEnd="198dp"
+        android:layout_marginBottom="1dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:backgroundTint="@color/deadline_blue"
+        android:text="Ignorer"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

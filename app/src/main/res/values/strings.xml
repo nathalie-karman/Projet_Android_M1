@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="todo">TODO</string>
+    <string name="etude">Etude</string>
+    <string name="pour_ajouter_une_t_che_avec_un_rappel_il_suffit_de_cliquer_button_ou_il_y_l_horlogue">Pour ajouter une tâche avec un rappel il suffit de cliquer button ou il y l\'horlogue</string>
+    <string name="manuelle_d_utilisation">Manuelle d\'utilisation</string>
+</resources>

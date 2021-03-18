@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <RelativeLayout android:layout_height="match_parent" android:background="@color/grey" android:layout_width="match_parent" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <GridLayout android:layout_height="100dp" android:background="@color/colorPrimaryDark" android:layout_width="match_parent" android:orientation="horizontal"/>
+
+    <ImageView android:layout_height="100dp" android:layout_width="103dp" app:srcCompat="@mipmap/ic_icon_foreground" android:paddingTop="0dp" android:accessibilityPaneTitle="asasasa" android:contentDescription="fff" android:id="@+id/imageView"/>
+
+    <TextView android:layout_height="match_parent" android:layout_width="match_parent" android:text="Auteurs : Yosr BEN AMMAR, Nathalie KARMAN, Bastien SIMON" android:layout_marginStart="20dp" android:layout_marginTop="120dp"> </TextView>
+
+    <TextView android:layout_height="match_parent" android:layout_width="match_parent" android:text="Auteurs : Yosr BEN AMMAR, Nathalie KARMAN, Bastien SIMON" android:layout_marginStart="20dp" android:layout_marginTop="120dp"> </TextView>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Master 1 Informatique" android:layout_marginStart="20dp" android:layout_marginTop="160dp"> </TextView>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Le Mans Université, Institut Claude Chappe" android:layout_marginStart="20dp" android:layout_marginTop="200dp"> </TextView>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="18 mars 2021" android:layout_marginStart="20dp" android:layout_marginTop="240dp"> </TextView>
+
+</RelativeLayout>

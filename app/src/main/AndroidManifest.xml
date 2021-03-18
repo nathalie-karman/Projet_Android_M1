@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.todoapp">
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <!--si problemes avec la bdd (voir dans Run), essayer de changer la valeur de android:allowBackup -->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_iconnn"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_iconnn"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity android:name=".TutoSplashActivity">
+        ></activity>
+        <activity android:name=".MainActivity3" />
+        <activity android:name=".MessageActivity" />
+        <activity android:name=".AlarmActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Listes et catégories" />
+        <activity
+            android:name=".MainActivity2"
+            android:label="Rappels personnalisés" />
+        <activity
+            android:name=".Dashboard"
+            android:label="Dashboard" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".AlertReceiver"
+            android:enabled="true"
+            android:label="BootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
