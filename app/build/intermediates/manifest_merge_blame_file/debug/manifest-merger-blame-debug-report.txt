@@ -31,84 +31,83 @@
 21-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:11:9-46
 22        android:supportsRtl="true"
 22-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:12:9-35
-23        android:testOnly="true"
-24        android:theme="@style/Theme.MyApplication" >
-24-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:13:9-51
-25        <activity android:name="com.example.todoapp.TutoSplashActivity" >
-25-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:14:9-15:21
-25-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:14:19-53
-26        >
-27        </activity>
-28        <activity android:name="com.example.todoapp.MainActivity3" />
-28-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:16:9-51
-28-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:16:19-48
-29        <activity android:name="com.example.todoapp.MessageActivity" />
-29-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:17:9-53
-29-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:17:19-50
-30        <activity android:name="com.example.todoapp.AlarmActivity" />
-30-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:18:9-51
-30-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:18:19-48
-31        <activity
-31-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:19:9-21:52
-32            android:name="com.example.todoapp.MainActivity"
-32-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:20:13-41
-33            android:label="Listes et catégories" />
-33-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:21:13-49
-34        <activity
-34-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:22:9-24:53
-35            android:name="com.example.todoapp.MainActivity2"
-35-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:23:13-42
-36            android:label="Rappels personnalisés" />
-36-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:24:13-50
-37        <activity
-37-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:25:9-27:41
-38            android:name="com.example.todoapp.Dashboard"
-38-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:26:13-38
-39            android:label="Dashboard" />
-39-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:27:13-38
-40        <activity android:name="com.example.todoapp.SplashActivity" >
-40-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:28:9-34:20
-40-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:28:19-49
-41            <intent-filter>
-41-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:29:13-33:29
-42                <action android:name="android.intent.action.MAIN" />
-42-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:30:17-69
-42-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:30:25-66
-43
-44                <category android:name="android.intent.category.LAUNCHER" />
-44-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:32:17-77
-44-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:32:27-74
-45            </intent-filter>
-46        </activity>
-47
-48        <receiver
-48-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:36:9-45:20
-49            android:name="com.example.todoapp.AlertReceiver"
-49-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:37:13-42
-50            android:enabled="true"
-50-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:38:13-35
-51            android:label="BootReceiver" >
-51-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:39:13-41
-52            <intent-filter>
-52-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:40:13-44:29
-53                <action android:name="android.intent.action.BOOT_COMPLETED" />
-53-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:41:17-79
-53-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:41:25-76
-54
-55                <category android:name="android.intent.category.DEFAULT" />
-55-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:43:17-76
-55-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:43:27-73
-56            </intent-filter>
-57        </receiver>
-58
-59        <service
-59-->[androidx.room:room-runtime:2.2.6] /home/nathalie/.gradle/caches/transforms-2/files-2.1/41d0ef89919f6cf380370bafbc1a6aea/room-runtime-2.2.6/AndroidManifest.xml:25:9-28:40
-60            android:name="androidx.room.MultiInstanceInvalidationService"
-60-->[androidx.room:room-runtime:2.2.6] /home/nathalie/.gradle/caches/transforms-2/files-2.1/41d0ef89919f6cf380370bafbc1a6aea/room-runtime-2.2.6/AndroidManifest.xml:26:13-74
-61            android:directBootAware="true"
-61-->[androidx.room:room-runtime:2.2.6] /home/nathalie/.gradle/caches/transforms-2/files-2.1/41d0ef89919f6cf380370bafbc1a6aea/room-runtime-2.2.6/AndroidManifest.xml:27:13-43
-62            android:exported="false" />
-62-->[androidx.room:room-runtime:2.2.6] /home/nathalie/.gradle/caches/transforms-2/files-2.1/41d0ef89919f6cf380370bafbc1a6aea/room-runtime-2.2.6/AndroidManifest.xml:28:13-37
-63    </application>
-64
-65</manifest>
+23        android:theme="@style/Theme.MyApplication" >
+23-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:13:9-51
+24        <activity android:name="com.example.todoapp.TutoSplashActivity" >
+24-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:14:9-15:21
+24-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:14:19-53
+25        >
+26        </activity>
+27        <activity android:name="com.example.todoapp.MainActivity3" />
+27-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:16:9-51
+27-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:16:19-48
+28        <activity android:name="com.example.todoapp.MessageActivity" />
+28-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:17:9-53
+28-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:17:19-50
+29        <activity android:name="com.example.todoapp.AlarmActivity" />
+29-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:18:9-51
+29-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:18:19-48
+30        <activity
+30-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:19:9-21:52
+31            android:name="com.example.todoapp.MainActivity"
+31-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:20:13-41
+32            android:label="Listes et catégories" />
+32-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:21:13-49
+33        <activity
+33-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:22:9-24:53
+34            android:name="com.example.todoapp.MainActivity2"
+34-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:23:13-42
+35            android:label="Rappels personnalisés" />
+35-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:24:13-50
+36        <activity
+36-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:25:9-27:41
+37            android:name="com.example.todoapp.Dashboard"
+37-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:26:13-38
+38            android:label="Dashboard" />
+38-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:27:13-38
+39        <activity android:name="com.example.todoapp.SplashActivity" >
+39-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:28:9-34:20
+39-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:28:19-49
+40            <intent-filter>
+40-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:29:13-33:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:30:17-69
+41-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:30:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:32:17-77
+43-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:32:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <receiver
+47-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:36:9-45:20
+48            android:name="com.example.todoapp.AlertReceiver"
+48-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:37:13-42
+49            android:enabled="true"
+49-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:38:13-35
+50            android:label="BootReceiver" >
+50-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:39:13-41
+51            <intent-filter>
+51-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:40:13-44:29
+52                <action android:name="android.intent.action.BOOT_COMPLETED" />
+52-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:41:17-79
+52-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:41:25-76
+53
+54                <category android:name="android.intent.category.DEFAULT" />
+54-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:43:17-76
+54-->/home/nathalie/Documents/ToDoApp/ToDoApp-2Main/ToDoApp/app/src/main/AndroidManifest.xml:43:27-73
+55            </intent-filter>
+56        </receiver>
+57
+58        <service
+58-->[androidx.room:room-runtime:2.2.6] /home/nathalie/.gradle/caches/transforms-2/files-2.1/41d0ef89919f6cf380370bafbc1a6aea/room-runtime-2.2.6/AndroidManifest.xml:25:9-28:40
+59            android:name="androidx.room.MultiInstanceInvalidationService"
+59-->[androidx.room:room-runtime:2.2.6] /home/nathalie/.gradle/caches/transforms-2/files-2.1/41d0ef89919f6cf380370bafbc1a6aea/room-runtime-2.2.6/AndroidManifest.xml:26:13-74
+60            android:directBootAware="true"
+60-->[androidx.room:room-runtime:2.2.6] /home/nathalie/.gradle/caches/transforms-2/files-2.1/41d0ef89919f6cf380370bafbc1a6aea/room-runtime-2.2.6/AndroidManifest.xml:27:13-43
+61            android:exported="false" />
+61-->[androidx.room:room-runtime:2.2.6] /home/nathalie/.gradle/caches/transforms-2/files-2.1/41d0ef89919f6cf380370bafbc1a6aea/room-runtime-2.2.6/AndroidManifest.xml:28:13-37
+62    </application>
+63
+64</manifest>
